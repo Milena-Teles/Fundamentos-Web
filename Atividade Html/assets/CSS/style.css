@@ -1,0 +1,66 @@
+/* Estios da pagina index.html */
+
+.menu li
+{
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.menu li a
+{
+    text-decoration: none;
+    color:rgb(224, 14, 14)
+}
+.menu li a:hover
+{
+    color: rgb(226, 142, 142);
+}
+.center
+{
+    text-align: center;
+}
+.branco
+{
+    color: antiquewhite;
+}
+.texto
+{
+    font-size: 20px;
+    text-align: center;
+}
+.font30
+{
+    font-size: 30px;
+
+}
+.font15
+{
+    font-size: 15px;
+
+}
+
+.tamanho
+{
+    height: 10px;
+    width: 10px;
+}
+.red
+{
+    color: rgb(236, 0, 0);
+}
+
+
+/* Estios da pagina personagens.html */
+
+.container
+{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+.pad30
+{
+    padding: 30px;
+}
+
