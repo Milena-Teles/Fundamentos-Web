@@ -1,0 +1,64 @@
+/* Estilos de pagina index.html */
+
+.menu li
+{
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.menu li a
+{
+    text-decoration: none;
+    color:rgb(240, 147, 248)
+}
+
+.menu li a:hover
+{
+    color: rgba(255, 50, 211, 0.829);
+}
+.container
+{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.font20
+{
+    font-size: 20px;
+
+}
+
+.pad30
+{
+    padding: 30px;
+}
+
+.center
+{
+    text-align: center;
+}
+
+
+
+
+
+/* Estilos de pagina contato.html */
+
+.pad20
+{
+    padding: 20px;
+}
+
+.cor
+{
+    color: darkred;
+}
+
+.textarea
+{
+    text-align: left;
+    justify-content: left;
+    display: block;
+}
